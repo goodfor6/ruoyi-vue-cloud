@@ -2,6 +2,7 @@ package com.ruoyi.common.security.auth;
 
 import java.util.Collection;
 import java.util.HashSet;
+import java.util.ServiceLoader;
 import java.util.Set;
 import org.springframework.util.PatternMatchUtils;
 import com.ruoyi.common.core.context.SecurityContextHolder;

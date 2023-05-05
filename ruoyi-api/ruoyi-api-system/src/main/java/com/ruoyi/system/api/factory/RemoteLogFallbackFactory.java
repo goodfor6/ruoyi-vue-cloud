@@ -9,6 +9,8 @@ import com.ruoyi.system.api.RemoteLogService;
 import com.ruoyi.system.api.domain.SysLogininfor;
 import com.ruoyi.system.api.domain.SysOperLog;
 
+import java.util.ServiceLoader;
+
 /**
  * 日志服务降级处理
  * 
